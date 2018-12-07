@@ -1,0 +1,36 @@
+{
+    "login": {
+      "welcome": "जारी रखने के लिए कृपया लॉग इन करें",
+      "login_button": "लॉग इन"
+    },
+    
+    "insert_data": {
+        "insert_data": "Insert Data",
+        "insert_name": "Insert Name",
+        "insert_number": "Insert Number",
+        "insert_roll_no": "Insert RollNumber",
+        "insert_fathers_name": "Insert Father's Name",
+        "insert_address": "Insert Address",
+        "update_button":"Update",
+        "insert_name_placeholder": "Name",
+        "insert_number_placeholder": "Number",
+        "insert_roll_no_placeholder": "RollNumber",
+        "insert_fathers_name_placeholder": "Father's Name",
+        "insert_address_placeholder": "Address"
+    },
+    "common": {
+        "insert_data": "Insert Data",
+        "welcome": "Welcome",
+        "email_placeholder": "Enter your email address",
+        "password_placeholder": "Enter your password here",
+        "phone_number_placeholder": "Enter your phone number",
+        "next_btn": "Next",
+        "skip_btn": "Skip",
+        "done_btn": "Done",
+        "phone_number": "Phone Number",
+        "api_failure": "API failure",
+        "okay": "OK",
+        "cancel": "Cancel",
+        "retry": "Retry"
+    }
+}
